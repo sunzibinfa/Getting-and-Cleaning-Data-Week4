@@ -35,7 +35,5 @@ The run_analysis.R does the following steps:
 ##About variables
 
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files
-
 x, y and sub merge the previous data sets for further analysis
-
 features and activity_labels contains the activity and descriptive names for the x and y data sets variables
